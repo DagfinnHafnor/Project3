@@ -18,12 +18,8 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/bg.png'); 
-  height: 100%;
-  /*-webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;*/
+  <!--background-image: url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/bg.png'); -->
+  background-color: white;
 }
 
 .menu ul {
@@ -69,4 +65,9 @@ body {
 
 .icon-menu i {
   margin-right: 5px;
+}
+
+.content{
+  margin: auto;
+  background-color: grey;
 }
