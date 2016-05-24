@@ -1,3 +1,3 @@
 function myFunction() {
-    document.getElementById("myCheck").click(); // Click on the checkbox
+    document.getElementById("block1").click(); // Click on the checkbox
 }
