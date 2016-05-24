@@ -3,6 +3,7 @@ body{
 }
 
 .block{
+	display: block;
 	width: 100px;
 	hight: 600px;
 	margin: auto;
