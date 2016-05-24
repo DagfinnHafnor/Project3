@@ -1,3 +1,3 @@
-function myFunction() {
-    document.getElementById("block1").hover(); // Click on the checkbox
-}
+//function myFunction() {
+//    document.getElementById("block1").click(); // Click on the checkbox
+//}
