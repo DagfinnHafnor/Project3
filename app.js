@@ -3,11 +3,11 @@ var main = function() {
   $('.icon-menu').click(function() {
     $('.menu').animate({
       left: "0px"
-    }, 800);
+    }, 400);
 
     $('body').animate({
       left: "285px"
-    }, 400);
+    }, 800);
   });
 
   /* Then push them back */
