@@ -2,10 +2,10 @@ var main = function() {
   /* Push the body and the nav over by 285px over */
   $('.block').click(function() {
     $('.block').animate({
-      left: "0px"
+      left: "500px"
     }, 400);
 
-    $('body').animate({
+    $('#block1').animate({
       left: "285px"
     }, 800);
   });
