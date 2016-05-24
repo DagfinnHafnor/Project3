@@ -6,7 +6,7 @@ body{
 	display: block;
 	width: 100px;
 	hight: 600px;
-	margin: auto;
+	margin: 1em auto 1em auto;
 	padding: 1em;
 }
 
