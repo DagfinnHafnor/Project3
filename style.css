@@ -3,7 +3,8 @@ body{
 }
 
 .block{
-	width:100px;
+	width: 100px;
+	hight: 600px;
 	margin: auto;
 	padding: 1em;
 }
