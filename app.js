@@ -3,7 +3,7 @@ var main = function() {
   $('.icon-menu').click(function() {
     $('.menu').animate({
       left: "0px"
-    }, 200);
+    }, 800);
 
     $('body').animate({
       left: "285px"
