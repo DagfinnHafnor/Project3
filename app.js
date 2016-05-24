@@ -7,7 +7,7 @@ var main = function() {
 
     $('body').animate({
       left: "285px"
-    }, 400);
+    }, 200);
   });
 
   /* Then push them back */
