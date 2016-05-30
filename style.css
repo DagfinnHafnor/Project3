@@ -4,6 +4,7 @@ body{
 
 
 .block{
+	position: relative;
 	width: 60%;
     height: 1000;
 	box-sizing: border-box;
